@@ -1,8 +1,8 @@
 package br.edu.fateczl.ordenacao.mergesort;
 
-public class Controller {
+public class ControllerM {
 
-	public Controller() {
+	public ControllerM() {
 		super();
 	}
 
